@@ -17,6 +17,7 @@
 	    if(checkOdd(n1))
 	    {
 	        //enter the printf statement
+          printf("The entered number is odd");
 	    }
 	    return 0;
 	}
