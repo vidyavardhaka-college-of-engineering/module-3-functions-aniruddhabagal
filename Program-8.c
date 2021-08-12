@@ -5,6 +5,9 @@
 	
 	#include<stdio.h>
 	//Write the function for calculating square of a given number
+  int square(int n){
+    return n*n;
+  }
 	int main()
 	{
 	    int num;
